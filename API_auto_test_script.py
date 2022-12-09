@@ -22,8 +22,8 @@ test_list = ['get_kline', 'get_latest_price', 'get_24h_ticker', 'get_order_book'
 # test_list = ['get_latest_price', 'place_order']
 
 # 账户：-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-key = "MQuoTViqvfit6XofI0ZlshVwNoB4E0PTKBfOjSS7sJgbzomHw7XjUtPZ4iRlOaOU"
-secret = 'oFO0XtENL3ZiIbiB4qOvH0ANPQXsAcZ2rIZF6rAVFVfaMKekhhQ3IB0BC3Sj9A3k'
+key = ""
+secret = ''
 special_key = None
 # proxy_host = '192.168.1.31'
 # proxy_port = 7078
